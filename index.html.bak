@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <table>
+  <tr>
+  <td> <img src="circle-cropped.png" height="200" width="200"></td>
+  <td><h1> R V Reddy</h1>
+  <p> Associate sr software engineer at <strong> XYZ technology</strong></p>
+  <p> I am Front End <strong> Developer</strong></p>
+  </td>
+  </tr>
+  </table>
+  <hr>
+  <h3>Cource Achived</h3>
+  <ul>
+  <li>Full stack Developement</li>
+  <li>Photo Express Crash Course</li>
+  <li>Meditation & innerpeace</li>
+  </ul>
+  <h3>Work Experience</h3>
+<table cellpadding="5">
+<tr>
+<th>Date</th>
+<th>Work</th>
+</tr>
+<tr>
+	<td>2010-2013</td>
+	<td>lead developer at ymk technology</td>
+</tr>
+<tr>
+	<td>2013-present</td>
+	<td>  Manager at XYZ technology</td>
+</tr>
+</table>
+  <h3>Skills</h3>
+<table>
+<tr>
+	<td>java</td>
+	<td>⭐⭐⭐⭐⭐ </td>
+	<td>photography</td>
+	<td> ⭐⭐⭐</td>
+</tr>
+<tr>
+	<td>web development</td>
+	<td>⭐⭐⭐⭐</td>
+	<td> drawing</td>
+	<td>⭐⭐⭐</td>
+</tr>
+</table>
+<hr></hr>
+ </body>
+</html>
